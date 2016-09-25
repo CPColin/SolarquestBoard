@@ -1,6 +1,8 @@
 # SolarquestBoard
 This repository contains the GIMP image files used as source imagery for the Solarquest 1985 board image. It also serves as a list of attributions for the various images of natural and artificial Solar System objects.
 
+Please create a new issue if you spot an attribution that is incorrect or if you own the copyright to one of the images used and want it to be removed.
+
 ## Copyright information
 Unless otherwise noted, all source images were in the public domain at the time the GIMP image files were constructed. As derivative works of the original images, the copyright to the GIMP image files belongs to their authors. As of this writing, the sole author is Colin Bartolome and the copyright year is © 2009. The author has released the GIMP image files into the public domain.
 
