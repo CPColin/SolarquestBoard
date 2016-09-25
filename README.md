@@ -65,11 +65,27 @@ Images attributed to JPL are used courtesy NASA/JPL-CalTech.
 
 | Object | Source | Mission | Notes |
 | --- | --- | --- | --- |
+| Pluto | [Eliot Young (SwRI) et al., NASA](http://apod.nasa.gov/apod/ap060903.html) | Unknown | This is believed to be a non-free image that will soon be replaced with New Horizons imagery. |
+| Charon | [Courtesy of Marc W. Buie/Southwest Research Institute](http://www.boulder.swri.edu/~buie/pluto/plutomap1.html) | The original image has been given a blue tint. |
+| Phobos | [NASA/JPL-CalTech/University of Arizona](http://photojournal.jpl.nasa.gov/catalog/PIA10368) | Mars Reconnaissance Orbiter | |
+| Mars | [NASA/Hubble Heritage Team (STSci/AURA)](http://hubblesite.org/newscenter/archive/releases/2001/24/image/a/) | Hubble Space Telescope | |
+| Deimos | [NASA/JPL-CalTech/University of Arizona](http://photojournal.jpl.nasa.gov/catalog/PIA11826) | Mars Reconnaissance Orbiter | |
+| Venus | [NASA](http://nssdc.gsfc.nasa.gov/photo_gallery/photogallery-venus.html) "Feb. 26, 1979" | Pioneer | This ultraviolet image matched the original game board more closely than a visible light image would have. |
 
 #### Saturn system
 
 | Object | Source | Mission | Notes |
 | --- | --- | --- | --- |
+| Saturn | [NASA/JPL/Space Science Institute](http://photojournal.jpl.nasa.gov/catalog/PIA11141) | Cassini-Huygens | |
+| Phoebe | [NASA/JPL/Space Science Institute](http://photojournal.jpl.nasa.gov/catalog/PIA06064) | Cassini-Huygens | |
+| Mimas | [NASA](https://commons.wikimedia.org/wiki/File:Mimas_moon.jpg) | Cassini-Huygens | This image could not be found in JPL's Photojournal. It is almost exactly the same as [this image](http://photojournal.jpl.nasa.gov/catalog/PIA06258), except with different shadow lengths. |
+| Dione | [NASA/JPL/Space Science Institute/Gordan Ugarkovic](https://commons.wikimedia.org/wiki/File:Dione_color_south.jpg) | Cassini-Huygens | This image could not be found in JPL's Photojournal. It is almost exactly the same as [this image](http://photojournal.jpl.nasa.gov/catalog/PIA07581), except with a slightly different orientation. |
+| Iapetus | [NASA/JPL/Space Science Institute](http://photojournal.jpl.nasa.gov/catalog/PIA08384) | Cassini-Huygens | |
+| Rhea | [NASA/JPL/Space Science Institute](http://photojournal.jpl.nasa.gov/catalog/PIA06578) | Cassini-Huygens | |
+| Tethys | [NASA/JPL/Space Science Institute](http://photojournal.jpl.nasa.gov/catalog/PIA07738) | Cassini-Huygens | The original image has been given a slight, tan tint. |
+| Janus | [NASA/JPL/Space Science Institute](http://photojournal.jpl.nasa.gov/catalog/PIA08296) | Cassini-Huygens | Saturn has been edited out of the background of the original image. |
+| Enceladus | [NASA/JPL/Space Science Institute](http://photojournal.jpl.nasa.gov/catalog/PIA06254) | Cassini-Huygens | |
+| Hyperion | [NASA/JPL/Space Science Institute](http://photojournal.jpl.nasa.gov/catalog/PIA08240) | Cassini-Huygens | |
 | Titan (surface) | [NASA/JPL/Space Science Institute](http://photojournal.jpl.nasa.gov/catalog/PIA06185) and [Wikimedia Commons user Kaldari](https://commons.wikimedia.org/wiki/File:Titan2005.jpg) | Cassini-Huygens | The original image has been combined with the image of Titan's atmosphere. |
 | Titan (atmosphere) | [NASA/JPL/Space Science Institute](http://photojournal.jpl.nasa.gov/catalog/PIA11603) | Cassini-Huygens | The original image has been combined with the image of Titan's surface. 
 
@@ -77,3 +93,6 @@ Images attributed to JPL are used courtesy NASA/JPL-CalTech.
 
 | Object | Source | Mission | Notes |
 | --- | --- | --- | --- |
+| Neptune | [NASA/JPL](http://photojournal.jpl.nasa.gov/catalog/PIA00046) | Voyager 2 | |
+| Triton | [NASA](http://sos.noaa.gov/Datasets/dataset.php?id=263) | Voyager 2 | The image appears to have been synthesized from images created by [Steve Albers](http://laps.noaa.gov/albers/sos/sos.html#TRITON) and [William Johnston](http://www.johnstonsarchive.net/spaceart/cylmaps.html). The exact format of the appropriate credit is unknown. |
+| Nereid | [NASA/JPL/Space Science Institute](http://photojournal.jpl.nasa.gov/catalog/PIA08405) | Cassini-Huygens | Actually an image of Atlas, moon of Saturn. The original image has been brightened and given a brown tint. |
