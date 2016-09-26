@@ -67,8 +67,8 @@ Images attributed to JPL are used courtesy NASA/JPL-CalTech.
 
 | Object | Source | Mission | Notes |
 | --- | --- | --- | --- |
-| Pluto | [Eliot Young (SwRI) et al., NASA](http://apod.nasa.gov/apod/ap060903.html) | Unknown | This is believed to be a non-free image that will soon be replaced with New Horizons imagery. |
-| Charon | [Courtesy of Marc W. Buie/Southwest Research Institute](http://www.boulder.swri.edu/~buie/pluto/plutomap1.html) | The original image has been given a blue tint. |
+| Pluto | [NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute](http://pluto.jhuapl.edu/Multimedia/Science-Photos/image.php?gallery_id=2&image_id=243) | New Horizons | |
+| Charon | [NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute](http://pluto.jhuapl.edu/Multimedia/Science-Photos/image.php?gallery_id=2&image_id=280) | New Horizons | The original image has been given a tan tint. |
 | Phobos | [NASA/JPL-CalTech/University of Arizona](http://photojournal.jpl.nasa.gov/catalog/PIA10368) | Mars Reconnaissance Orbiter | |
 | Mars | [NASA/Hubble Heritage Team (STSci/AURA)](http://hubblesite.org/newscenter/archive/releases/2001/24/image/a/) | Hubble Space Telescope | |
 | Deimos | [NASA/JPL-CalTech/University of Arizona](http://photojournal.jpl.nasa.gov/catalog/PIA11826) | Mars Reconnaissance Orbiter | |
