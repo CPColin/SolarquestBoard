@@ -21,7 +21,7 @@ The following images were used when creating the GIMP image files in this reposi
 | --- | --- | --- |
 | Space Docks | [NASA](http://spaceflight.nasa.gov/gallery/images/station/issartwork/html/jsc2006e43510.html) | The highlighted ISS module has been extracted from its image and tinted gold. |
 | Research Labs | [NASA Ames Research Center/Don Davis](http://settlement.arc.nasa.gov/70sArt/art.html) "AC76-0525" | The torus has been extracted from its image and its dimensions and colors have been modified. |
-| Federation Stations | [NASA Ames Research Center/Don Davis](http://settlement.arc.nasa.gov/70sArt/art.html) "AC76-0525" | The torus has been extracted from its image and its dimensions and colors have been modified. A red dome and green desk has been added, to distinguish the Federation Stations from the Research Labs, which use the same source image. |
+| Federation Stations | [NASA Ames Research Center/Don Davis](http://settlement.arc.nasa.gov/70sArt/art.html) "AC76-0525" | The torus has been extracted from its image and its dimensions and colors have been modified. A red dome and green disc have been added, to distinguish the Federation Stations from the Research Labs, which use the same source image. |
 
 ### Natural objects
 Images attributed to JPL are used courtesy NASA/JPL-CalTech.
